@@ -1,2 +1,2 @@
 imagePullSecrets:
-- awsecr-cred
+- name: awsecr-cred
