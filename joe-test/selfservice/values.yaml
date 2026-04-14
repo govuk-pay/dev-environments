@@ -1,0 +1,3 @@
+deployDatabase: true
+useLocalstack: true
+useCrossplane: true
